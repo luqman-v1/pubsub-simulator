@@ -52,5 +52,5 @@ func main() {
 			"message": messageResponse,
 		})
 	})
-	_ = router.Run(":8080")
+	_ = router.Run()
 }
