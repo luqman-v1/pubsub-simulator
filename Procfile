@@ -1,0 +1,1 @@
+web: ./bin/pubsub-simulator
